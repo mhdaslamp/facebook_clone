@@ -1,2 +1,2 @@
 # facebook_clone
-just a facebook clone landing page
+just a clone of facebook landing page(2020)
