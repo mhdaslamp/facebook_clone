@@ -1,0 +1,158 @@
+.header{
+    background:#3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family:Helvetica Neue, Helvetica,Arial, sans-serif;
+}
+
+
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+    
+
+    
+}
+.facebooktext{
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;  
+    color: white;
+    font-family:Helvetica Neue, Helvetica,Arial, sans-serif;
+    margin-left: 475px;   
+   
+}
+
+.login{
+    width: 50%;
+    float: left;
+
+}
+.Emailpass{
+    color: white;
+    font-size:12px;
+
+}
+.login-controls{
+    margin-left: 135px;
+    margin-top: 12px;
+
+}
+.submitbtn{
+    background-color: #3b5998;
+    border-color:#3b5998;
+    color: white;
+}
+.submitbtn:hover{
+    background:#456bbb;
+}
+
+.center{
+    width: 100%;
+    height: 600px;
+    background: rgba(219, 219, 219, 0.726);   
+    display: inline-block;
+   
+  
+}
+
+.main{
+    align-items: center;
+    margin-left: 37%;
+    width: 600px;
+    height: 1000px;
+   
+   
+   
+   
+
+
+}
+.create{
+    width: 600px;
+    height: 53px;
+    font-size: 67px;
+
+    
+}
+
+.main{
+  
+}
+ .addressform{
+     margin-top: 25px;
+
+}
+.mobandpass{
+    width: 405px;
+    height: 30px;
+    outline: none;
+    color: rgb(185, 185, 185);
+    font-size: 16px;
+    border-radius: 5px;
+    border-color: rgb(219, 218, 218);
+    border-top: none;
+    border-left: none;
+    box-shadow: none;
+}
+.name{
+    height: 30px;
+    outline: none;
+     outline: none;
+    color: rgb(185, 185, 185);
+    font-size: 16px;
+    border-radius: 5px;
+    border-color: rgb(219, 218, 218);
+    border-top: none;
+    border-left: none;
+    box-shadow: none;
+
+
+}
+#surename{
+    margin-left: 5px;
+}
+
+.dob{
+    padding-top: 10px;
+}
+.gender{
+ 
+    float: left;
+    margin-left: 15px;
+    font-weight: normal;
+  
+
+}
+.blueforpolicy{
+    display: inline;
+    font-size: small;
+    color:#3b5998;
+
+    
+
+}
+
+.policy{
+    display: inline;
+    font-size: small;
+    color: #8f8f8f;
+   
+}
+.signup{
+    width: 180px;
+    height: 40px;
+    background:#0c742d;
+    font-size: large;
+    border-radius: 5px;
+    color: aliceblue;
+  
+
+}
+.signup:hover{
+    background: #1d8c40;
+}
